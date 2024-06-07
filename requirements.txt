@@ -1,0 +1,16 @@
+pandas
+numpy
+gensim
+nltk
+torch
+torch-spline-conv
+torch-geometric
+sentence-transformers
+datasets
+scikit-learn
+matplotlib
+seaborn
+tqdm
+transformers[torch]
+accelerate>=0.21.0
+wandb
