@@ -5,7 +5,7 @@ This repository contains all the files and scripts required to generate text emb
 2. All-DistilRoBERTa-v1 Sentence Transformer
 
 ## Repository Structure
-
+```
 text-embeddings/
 ├── main.py
 ├── bin/
@@ -26,6 +26,8 @@ text-embeddings/
 │   ├── tsne_word2vec_3d.png
 │   ├── tsne_roberta_2d.png
 │   ├── tsne_roberta_3d.png
+```
+
 
 
 
